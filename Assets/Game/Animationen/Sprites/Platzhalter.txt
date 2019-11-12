@@ -1,0 +1,5 @@
+Dies ist eine Platzhalterdatei.
+Sie befindet sich hier damit Github denn Ordner erkennt und nicht löscht.
+Diese Datei kann und soll gelöscht werden sobald sich eine oder mehrere andere Datein in dem Ordner befinden.
+
+Bei Fragen Fox-Alpha oder Aaron100 fragen.
